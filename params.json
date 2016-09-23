@@ -1,0 +1,6 @@
+{
+  "name": "Jitaz",
+  "tagline": "a json based guitar tab format with a javascript toolkit to display and play the tab",
+  "body": "[deomo](https://schbook.github.io/jitaz/example/index.html) ",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
